@@ -16,7 +16,8 @@ function mincost(arr)
 
 		arr.sort((a, b) => a - b);
 	}
-	
+
+	return cost;
 //write your code here
 // return the min cost
   
